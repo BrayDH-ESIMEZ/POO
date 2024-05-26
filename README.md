@@ -1,4 +1,4 @@
 # POO
-Primer repo C
+Primer repo 1 C
 ## descripcion
 Este es un repo de pruebas
